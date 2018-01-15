@@ -27,23 +27,23 @@ func Poop(a ...interface{}) {
 	fmt.Print("💩 ")
 	fmt.Println(a...)
 }
-func Poop(a ...interface{}) {
+func Happy(a ...interface{}) {
 	fmt.Print("😂 ")
 	fmt.Println(a...)
 }
-func Poop(a ...interface{}) {
+func Amazing(a ...interface{}) {
 	fmt.Print("😍 ")
 	fmt.Println(a...)
 }
-func Poop(a ...interface{}) {
+func Angry(a ...interface{}) {
 	fmt.Print("😡 ")
 	fmt.Println(a...)
 }
-func Poop(a ...interface{}) {
+func Sad(a ...interface{}) {
 	fmt.Print("😣 ")
 	fmt.Println(a...)
 }
-func Poop(a ...interface{}) {
+func Afraid(a ...interface{}) {
 	fmt.Print("😨 ")
 	fmt.Println(a...)
 }
