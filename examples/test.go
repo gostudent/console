@@ -10,4 +10,9 @@ func main() {
 	console.Beer("Cheers!")
 	console.Poop("Oh F*ck!")
 	console.Unicorn("So Magical!")
+	console.Laugh("HaHaHa!!!")
+	console.Amazing("Oh Yeah!")
+	console.Angry("Angry!")
+	condole.Sad("Sad!")
+	console.Afraid("Wooooooh!!")
 }
