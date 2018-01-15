@@ -47,7 +47,23 @@ func Afraid(a ...interface{}) {
 	fmt.Print("😨 ")
 	fmt.Println(a...)
 }
-
-
-
-
+func Blush(a ...interface{}) {
+	fmt.Print("😊 ")
+	fmt.Println(a...)
+}
+func Grin(a ...interface{}) {
+	fmt.Print("😁 ")
+	fmt.Println(a...)
+}
+func Clap(a ...interface{}) {
+	fmt.Print("👏 ")
+	fmt.Println(a...)
+}
+func Earth(a ...interface{}) {
+	fmt.Print("🌎 ")
+	fmt.Println(a...)
+}
+func Spades(a ...interface{}) {
+	fmt.Print("♠️ ")
+	fmt.Println(a...)
+}
