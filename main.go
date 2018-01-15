@@ -27,3 +27,4 @@ func Poop(a ...interface{}) {
 	fmt.Print("💩 ")
 	fmt.Println(a...)
 }
+😂😊😍😨😢😡😣
