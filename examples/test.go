@@ -11,6 +11,8 @@ func main() {
 	console.Poop("Oh F*ck!")
 	console.Unicorn("So Magical!")
 	console.Laugh("HaHaHa")
-	console.Sad("Oh No")
-	console.Wow("wow")
+	console.Amazing("Oh Yeah!")
+	console.Angry("Angry")
+	condole.Sad("Sad")
+	console.Afraid("Wooooooh")
 }
