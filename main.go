@@ -27,7 +27,7 @@ func Poop(a ...interface{}) {
 	fmt.Print("💩 ")
 	fmt.Println(a...)
 }
-func Happy(a ...interface{}) {
+func Laugh(a ...interface{}) {
 	fmt.Print("😂 ")
 	fmt.Println(a...)
 }
